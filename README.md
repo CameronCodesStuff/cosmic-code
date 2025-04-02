@@ -1,6 +1,6 @@
 # 🌌 Cosmic Code Editor
 
-![Cosmic Code Editor Banner](https://your-image-link.com)
+![Cosmic Code Editor Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7oe_aZse-Nz-v2C-cZdqvZwNjkNG8fozluw&s)
 
 ✨ **A next-generation code editor inspired by the cosmos.** Immerse yourself in a coding experience like no other—featuring dynamic celestial effects like **twinkling stars, shooting stars, auroras, constellations, rain, and mesmerizing nebulae.**
 
