@@ -36,10 +36,6 @@ npm start  # or yarn start
 
 ---
 
-## 🌌 Preview
-
-![Editor Preview](https://your-preview-image-link.com)
-
 ---
 
 ## 🔧 Customization
@@ -84,7 +80,7 @@ MIT License © 2025 Your Name
 ---
 
 ## ⭐ Star Us!
-If you love the **Cosmic Code Editor**, please give us a ⭐ on [GitHub](https://github.com/yourusername/cosmic-code-editor)!
+If you love the **Cosmic Code Editor**, please give us a ⭐ on [GitHub].
 
 🚀 *Keep coding among the stars!*
 
